@@ -35,11 +35,11 @@ Proceed to describe how to install / setup one's local environment / get started
 ## Usage
 Learing node Express mongodb and more tech
 
-`const express = require('express');
+```const express = require('express');
 
 const app = express();
 
-const morgan = require('morgan');`
+const morgan = require('morgan');```
 
 
 ## Project Status
